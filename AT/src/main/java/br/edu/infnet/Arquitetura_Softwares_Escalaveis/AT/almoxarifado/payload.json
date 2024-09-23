@@ -1,0 +1,34 @@
+{
+    "pedidoId": 123456,
+    "clienteId": 987654321,
+    "destinoId": 123456,
+    "produtos": [
+        {
+            "produtoId": 123,
+            "name": "Bola de borracha",
+            "descricao": "Bola para cachorros",
+            "dimensoes": {
+                "altura": 100,
+                "largura": 100,
+                "profundidade": 100
+            },
+            "estoque": 100,
+            "preco": 99.99,
+            "categoria": "BRINQUEDO"
+        },
+        {
+            "produtoId": 456,
+            "name": "Ração Super Premium",
+            "descricao": "Ração com os melhores ingredientes disponíveis",
+            "dimensoes": {
+                "altura": 600,
+                "largura": 500,
+                "profundidade": 100
+            },
+            "estoque": 54,
+            "preco": 125.99,
+            "categoria": "ALIMENTACAO"
+        }
+    ],
+    "status": "EM_SEPARACAO"
+}

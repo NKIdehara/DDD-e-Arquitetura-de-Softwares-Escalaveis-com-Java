@@ -1,0 +1,14 @@
+{
+    "pedidoId": 123456,
+    "clienteId": 987654321,
+    "destinoId": 123456,
+    "produtos": [
+        {
+            "produtoId": 123
+        },
+        {
+            "produtoId": 456
+        }
+    ],
+    "status": "EM_SEPARACAO"
+}
